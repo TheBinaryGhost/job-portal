@@ -1,0 +1,2 @@
+# job-portal
+ A full-stack job portal web application designed to connect job seekers with employers. Built using the MVC architecture and OOP principles, the platform offers secure user authentication, dynamic job listings, resume uploads, application tracking, and role-based dashboards for both seekers and providers. Developed with JavaScript, Node.js, Express, MongoDB, and integrated with Git/GitHub for version control and collaboration.
