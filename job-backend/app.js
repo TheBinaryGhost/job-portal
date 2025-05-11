@@ -13,7 +13,7 @@ const app = express();
 const userName = "praveenterax";
 const password = "NblCRcF6hjo1BC3s";
 
-const MONGO_URI = `mongodb+srv://themrshah108:pr3mshah@jobportal.5ua079q.mongodb.net/?retryWrites=true&w=majority&appName=Jobportal`;
+const MONGO_URI = `enter the mongodb url`;
 
 app.use(bodyParser.json());
 
