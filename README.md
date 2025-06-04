@@ -29,27 +29,6 @@ A full-stack job portal application connecting job seekers with employers. Devel
 
 ---
 
-## 📂 Project Structure
-
-/elevate-job-portal
-│
-├── controllers/ # Business logic
-├── models/ # Mongoose models
-├── routes/ # Express routes
-├── views/ # Frontend pages (if using server-rendered views)
-├── public/ # Static assets
-├── middleware/ # Authentication, error handling
-├── utils/ # Helper functions
-├── .env # Environment variables
-├── server.js # Main application file
-└── README.md # Project overview
-
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -65,42 +44,23 @@ Edit
    cd elevate-job-portal
 Install dependencies
 
-bash
-Copy
-Edit
-npm install
-Set up .env file
+- npm install
+- Set up .env file
+- Run the application
 
-ini
-Copy
-Edit
-PORT=3000
-MONGODB_URI=mongodb://localhost:27017/elevate_portal
-JWT_SECRET=your_secret_key
-Run the application
+## 🧪 Testing & Deployment
+- Local server accessible at: http://localhost:3000
+- Tested using Postman, browser-based forms, and in-built validations
+- Git used for version control and branch management
 
-bash
-Copy
-Edit
-npm start
-🧪 Testing & Deployment
-Local server accessible at: http://localhost:3000
+## ✅ Future Improvements
+- Real-time notifications
+- Email alerts for applications
+- Advanced job filtering
+- Admin panel for system overview
 
-Tested using Postman, browser-based forms, and in-built validations
-
-Git used for version control and branch management
-
-✅ Future Improvements
-Real-time notifications
-
-Email alerts for applications
-
-Advanced job filtering
-
-Admin panel for system overview
-
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss your ideas.
 
-📄 License
+## 📄 License
 MIT License
