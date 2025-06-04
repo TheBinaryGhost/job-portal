@@ -42,10 +42,10 @@ A full-stack job portal application connecting job seekers with employers. Devel
    ```bash
    git clone https://github.com/yourusername/elevate-job-portal.git
    cd elevate-job-portal
-- Install dependencies
-- npm install
-- Set up .env file
-- Run the application
+2. Install dependencies
+3. npm install
+4. Set up .env file
+5. Run the application
 
 ## 🧪 Testing & Deployment
 - Local server accessible at: http://localhost:3000
