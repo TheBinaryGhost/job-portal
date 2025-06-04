@@ -42,8 +42,7 @@ A full-stack job portal application connecting job seekers with employers. Devel
    ```bash
    git clone https://github.com/yourusername/elevate-job-portal.git
    cd elevate-job-portal
-Install dependencies
-
+- Install dependencies
 - npm install
 - Set up .env file
 - Run the application
